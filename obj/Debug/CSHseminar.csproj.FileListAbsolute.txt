@@ -1,0 +1,10 @@
+C:\Users\DELL\source\repos\CSHseminar\bin\Debug\CSHseminar.exe.config
+C:\Users\DELL\source\repos\CSHseminar\bin\Debug\CSHseminar.exe
+C:\Users\DELL\source\repos\CSHseminar\bin\Debug\CSHseminar.pdb
+C:\Users\DELL\source\repos\CSHseminar\obj\Debug\CSHseminar.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\CSHseminar\obj\Debug\CSHseminar.Properties.Resources.resources
+C:\Users\DELL\source\repos\CSHseminar\obj\Debug\CSHseminar.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\CSHseminar\obj\Debug\CSHseminar.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\CSHseminar\obj\Debug\CSHseminar.exe
+C:\Users\DELL\source\repos\CSHseminar\obj\Debug\CSHseminar.pdb
+C:\Users\DELL\source\repos\CSHseminar\obj\Debug\CSHseminar.Form1.resources
